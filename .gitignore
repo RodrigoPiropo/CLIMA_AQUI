@@ -1,4 +1,4 @@
 .idea
 __pycache__
 venv
-db
+clima/db.sqlite3
