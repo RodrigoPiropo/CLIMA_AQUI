@@ -1,1 +1,1 @@
-web: gunicorn clima.wsgi
+web: gunicorn clima.clima.wsgi
