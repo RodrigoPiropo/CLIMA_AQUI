@@ -14,11 +14,17 @@ Python, Django, googletrans
 ```
 git clone git@github.com:RodrigoAP1307/CLIMA_AQUI.git
 ```
-2. Entre no diretório onde se encontra o arquivo manage.py:
+2. Instale as blibiotecas
+```
+cd ...\CLIMA_AQUI\clima\
+pip install -r requirements.txt
+
+```
+3. Entre no diretório onde se encontra o arquivo manage.py:
 ```
 cd ...\CLIMA_AQUI\clima\
 ```
-3. Rode o server:
+4. Rode o server:
 ```
 python manage.py runserver
 ```
